@@ -1,5 +1,5 @@
 print("Welcome to the project")
-print("Version 1.1")
+print("Version 100")
 print("New feature added")
 print("Change made on GitHub")
 print("Fetch practice")
