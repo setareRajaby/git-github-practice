@@ -4,3 +4,13 @@ print("New feature added")
 print("Change made on GitHub")
 print("Fetch practice")
 print("Second fetch practice")
+
+
+print("Master update")
+litle printttttttttt
+
+
+
+
+print("First squash change")
+print("Second squash change")
