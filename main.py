@@ -13,3 +13,4 @@ litle printttttttttt
 
 
 print("First squash change")
+print("Second squash change")
